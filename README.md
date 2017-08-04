@@ -1,0 +1,2 @@
+# My-bot
+for trade
